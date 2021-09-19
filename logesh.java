@@ -1,6 +1,6 @@
 public class logesh {
-    public static void main(String args[])
+    public static main(String args[])
     {
-        System.out.println("hello");
+        System.out.println("Hello");
     }
 }
